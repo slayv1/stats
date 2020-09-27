@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/slayv1/bank/pkg/types"
+	"github.com/slayv1/bank/v2/pkg/types"
 	"fmt"
 )
 
